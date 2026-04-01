@@ -1,0 +1,3 @@
+for sdt in tqdm(DANH_SACH, desc="Đang gửi SMS", unit="tin"):
+    # Các lệnh gửi tin nhắn nằm ở đây
+    time.sleep(30)
